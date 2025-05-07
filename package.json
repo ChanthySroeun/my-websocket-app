@@ -1,0 +1,32 @@
+{
+  "name": "websocket-lab",
+  "version": "1.0.0",
+  "description": "WebSocket Test Laboratory",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanthySroeun/Websoket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ChanthySroeun/Websoket/issues"
+  },
+  "homepage": "https://github.com/ChanthySroeun/Websoket#readme"
+}
